@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "STActionSheet"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "bottom actionsheet"
 
   # This description is used to generate tags and improve search results.
@@ -39,7 +39,6 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  # s.license      = "Copyright © 2017年 万圣. All rights reserved"
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
